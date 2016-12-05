@@ -41,8 +41,8 @@ def find_max_even_index(lst):
 ##1d
 
 def circular_shift_list1(lst, k):
-    newlist = lst[-3:]+lst[:-3]
-    return(newlist)
+        newlist = lst[-3:]+lst[:-3]
+        return(newlist)
 
 ##2
 

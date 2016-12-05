@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Style-Type" content="text/css" /> 
+    <title>Topics relevant to Midterm 2</title>
+    <link href="/library/skin/tool_base.css" type="text/css" rel="stylesheet" media="all" />
+    <link href="/library/skin/neo-new-york-u/tool.css" type="text/css" rel="stylesheet" media="all" />
+    <script type="text/javascript" language="JavaScript" src="/library/js/headscripts.js"></script>
+    <style>body { padding: 5px !important; }</style>
+  </head>
+  <body>
+<div class="page" title="Page 3">
+<div class="layoutArea">
+<div class="column">
+<p style="font-size: 12.000000pt; font-family: 'Symbol';">Topics that are relevant to Midterm 2.&nbsp;Chapter numbers refer to the textbook. See<span style="font-family: Symbol; font-size: 16px;">&nbsp;syllabus, posted in Syllabus section. Topics that were not covered on Midterm1 are in <strong>bold.</strong></span></p>
+
+<ul>
+	<li style="text-autospace:none;">Parts of a program, variables (1.1 &ndash; 1.5)</li>
+	<li style="text-autospace:none;">Basic Data Types (1.6)</li>
+	<li style="text-autospace:none;">Operators and Expressions (1.7, 1.9, 1.11)</li>
+	<li style="text-autospace:none;">Using modules: math, turtle, &nbsp;(1.8 -- 1.10, )</li>
+	<li style="text-autospace:none;">Booleans and Boolean expressions (2.1, 2.2.1 &ndash; 2.2.7)</li>
+	<li style="text-autospace:none;">Selection Statements: if, if&ndash;else, if-elif-else (2.1, 2.2.8 &ndash; 2.2.9)</li>
+	<li style="text-autospace:none;">Iterative Statements:<strong> while</strong>, for (2.1, 2.2.10 &ndash; 2.2.15, 2.5)</li>
+	<li style="text-autospace:none;"><strong>Functions</strong> (5)</li>
+	<li style="text-autospace:none;"><strong>Strings </strong>(4)</li>
+	<li style="text-autospace:none;"><strong>Lists </strong>&nbsp;(7) &nbsp;[ The exam will not cover issues arising from changing a list within a function.]</li>
+</ul>
+</div>
+</div>
+</div>
+
+  </body>
+</html>
